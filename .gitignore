@@ -1,0 +1,7 @@
+.DS_Store
+input/*
+!input/.keep
+data/*
+!data/.keep
+.vscode
+.venv
